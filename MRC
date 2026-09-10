@@ -1,1 +1,1 @@
-["[Manuel] Created Server","Manuel: Hello!","Manuel: Hello World.","Manuel: This is my main laptop.","Manuel: This is sent from my Chromebook!"]
+["[Manuel] Created Server","Manuel: Hello!","Manuel: Hello World.","Manuel: This is my main laptop.","Manuel: This is sent from my Chromebook!","Manuel: This works!"]
