@@ -1,1 +1,1 @@
-["[Manuel] Created Server"]
+["[Manuel] Created Server","Manuel: Hello!"]
